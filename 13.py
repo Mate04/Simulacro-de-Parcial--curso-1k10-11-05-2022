@@ -1,6 +1,3 @@
-from ast import While
-
-
 vueltaYaDada = False
 option = True
 while option != 0:
